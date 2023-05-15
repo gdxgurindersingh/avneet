@@ -1012,6 +1012,9 @@ body.offcanvason .avneet-nav-toggle {
     font-weight: 700;
     margin: 0;
     line-height: 1.3em;
+    background-color: rgba(0, 0, 0, 0.341); /* Add the desired background color here */
+    /* padding: 10px 20px; Add padding to give some space around the text */
+  
 }
 .banner-header h2 {
     font-size: 16px;
@@ -1022,6 +1025,7 @@ body.offcanvason .avneet-nav-toggle {
     font-weight: 500;
     margin: 0;
     letter-spacing: 2px;
+    background-color: rgba(0, 0, 0, 0.341); /* Add the desired background color here */
 }
 .position-relative {
   position: relative !important;
@@ -1999,8 +2003,8 @@ ol.comment-list li .children li {
 }
 
 .map {
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
+    -webkit-filter: grayscale(50%);
+    filter: grayscale(50%);
 }
 
 
